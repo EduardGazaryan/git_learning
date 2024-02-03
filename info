@@ -13,4 +13,4 @@ git add filename
 git add . (Сразу все файлы)
 6. История коммитов
 git log
-7
+7,
