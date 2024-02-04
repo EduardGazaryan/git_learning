@@ -24,8 +24,6 @@ git checkout branch_name
 git checkout -e branch_name (создать ветку , если ее нету)
 
 
-10 Забрать из стеша
-git stash apply
 
 
 
