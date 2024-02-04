@@ -23,3 +23,8 @@ git log
 git checkout branch_name
 git checkout -e branch_name (создать ветку , если ее нету)
 
+8. Обновляет код с удаленного репозитория
+get pull
+
+9. Временное хранилище для полезного кода который мы не хотим коминтить
+git stash
